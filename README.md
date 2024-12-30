@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXalexAdamsXx
 - 👀 I’m interested in making people happy by making their life easier through software!
-- 🌱 I’m currently learning Java, Algorithms, Python, and a whole bunch of other tools that I can leverage to make my dreams come true.
+- 🌱 I’m currently learning... Well, in my time as a developer, the real question is what are you not learning? There's always something to learn in this field, even something trivial. That's why I love computers so much. But if you're curious, I'm still figuring out how to center a div...
 - 📫 You can reach me at alexadams6@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first time I coded, I told my parents that coding wasn't for me.
