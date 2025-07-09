@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xXalexAdamsXx
-- 👀 I’m interested in making people happy by making their life easier through software!
-- 🌱 I’m currently learning... Well, in my time as a developer, the real question is what are you not learning? There's always something to learn in this field, even something trivial. That's why I love computers so much. But if you're curious, I'm still figuring out how to center a div...
+- 👀 I’m interested in making people happy by making their lives easier through software!
+- 🌱 I’m currently learning... Well, in my time as a developer, the real question is, what are you not learning? There's always something to learn in this field, even something trivial. That's why I love computers so much. But if you're curious, I'm still figuring out how to center a div...
 - 📫 You can reach me at alexadams6@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first time I coded, I told my parents that coding wasn't for me.
-  - After telling them that, I went back to working on my coding project for 8 hours straight because I was having so much fun! Ever since I knew that being a software engineer was my dream
+  - After telling them that, I went back to working on my coding project for 8 hours straight because I was having so much fun! Ever since I knew that being a software engineer was my dream.
