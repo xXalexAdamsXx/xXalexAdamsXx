@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @xXalexAdamsXx
 - 👀 I’m interested in making people happy by making their lives easier through software!
-- 🌱 I’m currently learning... Well, in my time as a developer, the real question is, what are you not learning? There's always something to learn in this field, even something trivial. That's why I love computers so much. But if you're curious, I'm still figuring out how to center a div...
+- 🌱 I’m currently learning... the language that I am currently hired to work with. Not that I don't know it, the learning just never ends! There's always something to learn in this field, which is why I love it so much!! If you want to know something specific, I'm still figuring out how to center a div lol.
 - 📫 You can reach me at alexadams6@icloud.com
-- 😄 Pronouns: He/Him
+- 🤝 Check out my LinkedIn: www.linkedin.com/in/alex-l-adams. There's a whole lot more to me than writing epic programs.
 - ⚡ Fun fact: The first time I coded, I told my parents that coding wasn't for me.
-  - After telling them that, I went back to working on my coding project for 8 hours straight because I was having so much fun! Ever since I knew that being a software engineer was my dream.
+  - After telling them that, I went back to my Code.org IDE and worked for 8 hours straight because I was having so much fun! Ever since I knew that being a software engineer was my calling.
+  - Professionally trained in Swagonomics (And by 'Swagonomics', I mean staring at my computer for longer than 12 hours a day).
