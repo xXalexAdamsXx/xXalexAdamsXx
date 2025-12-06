@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXalexAdamsXx
 - 👀 I’m interested in making people happy by making their lives easier through software!
-- 🌱 I’m currently learning... the language that I am currently hired to work with. Not that I don't know it, the learning just never ends! There's always something to learn in this field, which is why I love it so much!! If you want to know something specific, I'm still figuring out how to center a div lol.
+- 🌱 I’m learning... the language that I am currently hired to work with. Not that I don't know it, the learning just never ends! There's always something to learn in this field, which is why I love it so much!! If you want to know something specific, I'm still figuring out how to center a div lol.
 - 📫 You can reach me at alexadams6@icloud.com
 - 🤝 Check out my LinkedIn: www.linkedin.com/in/alex-l-adams. There's a whole lot more to me than writing epic programs.
 - ⚡ Fun fact: The first time I coded, I told my parents that coding wasn't for me.
